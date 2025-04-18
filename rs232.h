@@ -1,14 +1,3 @@
-/*
-***********************************************
-*
-* Author: Frank Andre Moreno Vera
-*
-* Copyright (C) 2014 Frank Andre Moreno Vera
-*
-* frank@ariot.pe
-*
-***********************************************
-*/
 
 #ifndef github_com_kranfix_rs232_rs232_h
 #define github_com_kranfix_rs232_rs232_h
